@@ -4,6 +4,8 @@
 
 - [Active Directory Home lab](https://github.com/oliveradams30/LABURL)
 
+- Audit Report: Botium Toys
+
 <h2>📧 Certifications</h2>
 
 - [Google Cybersecurity Professional] 
